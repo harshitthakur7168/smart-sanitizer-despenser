@@ -28,6 +28,8 @@ When the object is at distance more than 50 cm from the sensor. This distance is
 
 
 **Situation 3**
+
+
 When the object is at distance less than 50 cm from the sensor. We can see servop motor rotates 180 degree from its initial position displaying that it is dispensing sanitizer.
 
 
