@@ -1,4 +1,4 @@
-# smart-sanitizer-despenser
+# Smart-Sanitizer-Despenser
 
 In this corona period hand sanitizer is an essential thing. Because it can kill the Covid -19 virus. but use the of normal sanitizer bottle become very danger. When an infected person press the bottle trigger, The virus may spread from this hand sanitizer bottle. We can solve this by using Automatic hand sanitizer bottle. Automatic means, no need to trigger with our hand. Just place your hand near the bottle. the bottle will automatically trigger.
 
