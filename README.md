@@ -10,6 +10,8 @@ Here is circuit diagram of the project. We have 3 situation and that clearly exp
 
 
 **_Here is the YOUTUBE link to the video of me explainig the whole project for my college assignment : https://youtu.be/2Eq1mkuQ7tk_**
+
+
 **Situation 1**
 
 When we turn on the system:
